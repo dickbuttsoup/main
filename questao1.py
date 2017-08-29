@@ -10,7 +10,6 @@ def analisa():
     return None
 
 # Programa principal
-
 partidas = []
 n = 1
 p = 1
@@ -31,4 +30,4 @@ while n != 0 and p != 0:
     for x in range(len(partidas)):  # Dá o resultado da rodada
         print(partidas[x])
     print()
-    
+
